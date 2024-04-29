@@ -1,2 +1,2 @@
 # PySpark
-Learnings with respect to Apache Spark and PySpark
+This repository is a collection of my learnings and implementations related to Apache Spark.
